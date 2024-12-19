@@ -1,10 +1,11 @@
+Olá, sou Vinicius Seabra! 👋
 🙋‍♂️ Sobre mim
 🎓 Tenho 24 anos e sou apaixonado por dados, tecnologia e inovação. Atualmente, foco em transformar dados em insights valiosos para apoiar decisões estratégicas.
 💻 Trabalho diariamente com Python, SQL, Power BI, e ferramentas de nuvem como Google Cloud Platform (GCP).
 🌱 Estou constantemente me aprofundando em engenharia de dados, análise de dados e automação de pipelines utilizando ferramentas como Apache Airflow e DBT.
 🤝 Estou sempre em busca de colaborar em projetos desafiadores e aprender com a comunidade de dados.
 🎯 Objetivos para 2024: Contribuir para projetos de código aberto em engenharia de dados, ampliar minha expertise em arquiteturas escaláveis e explorar mais sobre DataOps.
-📫 Como me alcançar: vinisciuspretoseabra@gmail.com, https://www.linkedin.com/in/viniciusseabra/, GitHub.
+📫 Como me alcançar: [seu email], LinkedIn, GitHub.
 
 ⚡ Habilidades
 Linguagens de Programação: Python, SQL, Bash
@@ -25,3 +26,4 @@ Análise Preditiva de Séries Temporais: Modelo preditivo utilizando Python para
 🌟 Curiosidades
 📖 Sempre aprendendo algo novo – do mundo dos dados ao desenvolvimento pessoal.
 🌍 Apaixonado por viagens e conhecer culturas diferentes.
+
