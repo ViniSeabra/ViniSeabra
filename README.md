@@ -1,17 +1,27 @@
-Olá, sou inicius Seabra! 👋
 🙋‍♂️ Sobre mim
-🎓 Tenho 22 anos e sou um desenvolvedor Salesforce apaixonado por tecnologia e inovação.
-💻 Trabalho diariamente com Apex, Visualforce, Lightning Web Components e outras tecnologias Salesforce.
-🌱 Atualmente, estou focado em aprofundar meus conhecimentos em integrações e arquitetura na plataforma Salesforce.
-🤝 Estou sempre procurando colaborar em projetos interessantes e desafiadores.
-🎯 Objetivos para 2023: Tornar-me um arquiteto de soluções certificado pela Salesforce, contribuir para projetos de código aberto relacionados à Salesforce e ajudar a comunidade.
-📫 Como me alcançar: [seu email], [LinkedIn], [Twitter]
-⚡ Habilidades
-Linguagens de programação: Apex, JavaScript, HTML, CSS
-Ferramentas: Salesforce CRM, VS Code, Git, Workbench
-Certificações: [suas certificações Salesforce]
-📊 Estatísticas do GitHub
-![Estatísticas do GitHub de [seu nome]](https://github-readme-stats.vercel.app/api?username=[seu nome de usuário]&show_icons=true&count_private=true&theme=[tema que você escolher])
+🎓 Tenho 24 anos e sou apaixonado por dados, tecnologia e inovação. Atualmente, foco em transformar dados em insights valiosos para apoiar decisões estratégicas.
+💻 Trabalho diariamente com Python, SQL, Power BI, e ferramentas de nuvem como Google Cloud Platform (GCP).
+🌱 Estou constantemente me aprofundando em engenharia de dados, análise de dados e automação de pipelines utilizando ferramentas como Apache Airflow e DBT.
+🤝 Estou sempre em busca de colaborar em projetos desafiadores e aprender com a comunidade de dados.
+🎯 Objetivos para 2024: Contribuir para projetos de código aberto em engenharia de dados, ampliar minha expertise em arquiteturas escaláveis e explorar mais sobre DataOps.
+📫 Como me alcançar: vinisciuspretoseabra@gmail.com, https://www.linkedin.com/in/viniciusseabra/, GitHub.
 
-🗂️ Projetos em destaque
-[Nome do Projeto](link para o projeto): Descrição do projeto
+⚡ Habilidades
+Linguagens de Programação: Python, SQL, Bash
+Ferramentas de Dados: Apache Airflow, DBT, Power BI, BigQuery
+Cloud: Google Cloud Platform (GCP), AWS (básico)
+Versionamento e Automação: Git, Docker
+Certificações:
+
+Google Cloud Professional Data Engineer
+Microsoft Power BI para Business Intelligence e Data Science
+Fundamentos de Engenharia de Dados
+📊 Estatísticas do GitHub
+
+🗂️ Projetos em Destaque
+Data Pipeline com Airflow e DBT: Pipeline de dados completo para ingestão e transformação de dados em GCP, com monitoramento automatizado.
+Dashboard de Vendas com Power BI: Dashboard interativo para análise de KPIs, ajudando equipes a identificar tendências e oportunidades de mercado.
+Análise Preditiva de Séries Temporais: Modelo preditivo utilizando Python para previsão de vendas sazonais.
+🌟 Curiosidades
+📖 Sempre aprendendo algo novo – do mundo dos dados ao desenvolvimento pessoal.
+🌍 Apaixonado por viagens e conhecer culturas diferentes.
